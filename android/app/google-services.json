@@ -9,7 +9,36 @@
       "client_info": {
         "mobilesdk_app_id": "1:602213132284:android:4dfe5471a2ab1e81adf479",
         "android_client_info": {
-          "package_name": "com.purwanchal.driver"
+          "package_name": "com.itsoch.purwanchalmain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602213132284-g8po0o38i3t9l0ld13qe30l895p9nouc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6MDExWprqP42ExuJF1x5NTcxYEqTa3Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602213132284-g8po0o38i3t9l0ld13qe30l895p9nouc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602213132284:android:1df295d103c97058adf479",
+        "android_client_info": {
+          "package_name": "com.purwanchal.delivery"
         }
       },
       "oauth_client": [
@@ -38,7 +67,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:602213132284:android:daf81e4c617d6c54adf479",
         "android_client_info": {
-          "package_name": "com.purwanchal.driver"
+          "package_name": "com.purwanchal.delivery"
         }
       },
       "oauth_client": [

@@ -1,4 +1,4 @@
-package com.purwanchal.driver
+package com.purwanchal.delivery
 
 import android.content.Intent
 import android.os.Bundle
